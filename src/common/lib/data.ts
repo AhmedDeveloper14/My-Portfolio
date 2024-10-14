@@ -81,7 +81,7 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: portfolioImg,
-    link: 'https://github.com/BabarDeveloper/react-chat-app',
+    link: 'https://github.com/AhmedDeveloper14/My-Portfolio',
   },
 ] as const;
 
