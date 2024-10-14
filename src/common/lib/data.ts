@@ -41,28 +41,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    label: 'Senior Web Developer',
+    label: 'Junior Web Developer',
     title: 'BA Unique Web Solutions',
     location: 'Karachi, Pakistan',
-    description: `Experienced Senior Web Developer specializing in building scalable, responsive web applications, leveraging expertise in modern JavaScript frameworks, full-stack development, and project leadership to deliver innovative digital solutions. `,
+    description: `Experienced Junior Web Developer specializing in building scalable, responsive web applications, leveraging expertise in modern JavaScript frameworks, full-stack development, and project leadership to deliver innovative digital solutions. `,
     icon: React.createElement(BriefcaseBusinessIcon),
     date: 'Jul 2024 - Present',
   },
   {
-    label: 'Frontend Developer',
-    title: 'QF Network',
-    location: 'Karachi, Pakistan',
-    description: `Experienced Frontend Developer skilled in building responsive, user-friendly web applications using modern JavaScript frameworks and tools, ensuring seamless user experiences and optimized performance.`,
-    icon: React.createElement(BookIcon),
-    date: 'Mar 2024 - May 2024',
-  },
-  {
     label: 'ERP Operator',
-    title: 'SONIC TEXTILE INDUSTRIES (PVT) LTD',
+    title: 'Liberty Mills Limited',
     location: 'Karachi, Pakistan',
     description: `Efficiently managed and maintained ERP systems to streamline business processes, ensuring optimal functionality and data accuracy for enhanced decision-making.`,
     icon: React.createElement(LaptopMinimalIcon),
-    date: 'Jul 2023 - Sep 2023',
+    date: 'Jan 2024 - May 2024',
   },
 ] as const;
 
@@ -76,23 +68,9 @@ export const images = {
 
 export const projectsData = [
   {
-    title: 'Chat Application',
-    description:
-      'A real-time chat application enabling seamless communication between users with features like private messaging, group chats, and media sharing.',
-    tags: [
-      'React',
-      'Express',
-      'Node.js',
-      'Shadcn',
-      'Tailwind',
-      'MongoDB',
-    ],
-    imageUrl: chatappImg,
-    link: 'https://github.com/BabarDeveloper/react-chat-app',
-  },
-  {
     title: 'Portfolio',
-    description: `Portfolio that you're currently viewing! This project showcases my work and provides information about me.`,
+    description:
+      `Portfolio that you're currently viewing! This project showcases my work and provides information about me.`,
     tags: [
       'React',
       'TypeScript',
@@ -103,7 +81,7 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: portfolioImg,
-    link: 'https://github.com/BabarDeveloper/Portfolio-Nextjs',
+    link: 'https://github.com/BabarDeveloper/react-chat-app',
   },
 ] as const;
 

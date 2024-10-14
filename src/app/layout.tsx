@@ -10,7 +10,7 @@ import Footer from '@/common/components/shared/footer';
 import { ModeToggle } from '@/common/theme/mode-toggler';
 
 export const metadata: Metadata = {
-  title: 'Babar Ali | Portfolio',
+  title: 'M Ahmed Ali | Portfolio',
   description:
     'Check out modern and stylish porfolio of an experienced Web Developer Babar Ali! Built using TypeScript, Next.js 14, Framaer Motion and Tailwind CSS.',
 };
